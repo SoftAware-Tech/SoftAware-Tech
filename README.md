@@ -4,10 +4,10 @@
   <p><strong>Bridging the Gap Between Visionary Clients and Top-Tier Freelancers.</strong></p>
 
   <a href="https://www.facebook.com/profile.php?id=61585627764739">
-    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Follow%20Us-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
   <a href="https://www.linkedin.com/company/110421993/">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow%20Us-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Port%20Said%2C%20Egypt-red?style=for-the-badge&logo=google-maps" alt="Location" />
 </div>
