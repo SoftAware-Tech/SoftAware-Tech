@@ -1,14 +1,12 @@
-<img width="500" height="374" alt="Soft Aware profile (1)" src="https://github.com/user-attachments/assets/085bdbab-fa71-4680-b364-b048c6c45d9d" />
-
 <div align="center">
-  <img src="![Uploading Soft Aware profile (1).png…]()" alt="SoftAware Logo" width="150" height="150" />
+  <img src="https://github.com/user-attachments/assets/085bdbab-fa71-4680-b364-b048c6c45d9d" alt="SoftAware Logo" width="150" height="150" />
   <h1>SoftAware</h1>
   <p><strong>Bridging the Gap Between Visionary Clients and Top-Tier Freelancers.</strong></p>
 
-  <a href="https://www.facebook.com/SoftAware">
+  <a href="https://www.facebook.com/profile.php?id=61585627764739">
     <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/company/softaware">
+  <a href="https://www.linkedin.com/company/110421993/">
     <img src="https://img.shields.io/badge/LinkedIn-Follow%20Us-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Port%20Said%2C%20Egypt-red?style=for-the-badge&logo=google-maps" alt="Location" />
@@ -54,8 +52,8 @@ We select the best tools for each project. Our core expertise includes:
 Ready to build your next project? Or are you a talented developer looking to join our network?
 
 * 📧 **Email:** [softaware.devs@gmail.com](mailto:softaware.devs@gmail.com)
-* 💼 **LinkedIn:** [SoftAware](https://www.linkedin.com/company/softaware)
-* 🌐 **Facebook:** [SoftAware](https://www.facebook.com/SoftAware)
+* 💼 **LinkedIn:** [SoftAware](https://www.linkedin.com/company/110421993/)
+* 🌐 **Facebook:** [SoftAware](https://www.facebook.com/profile.php?id=61585627764739)
 
 <div align="center">
   <sub>Built with ❤️ by the SoftAware Engineering Team</sub>
