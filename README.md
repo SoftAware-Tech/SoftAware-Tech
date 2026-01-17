@@ -1,5 +1,7 @@
+<img width="500" height="374" alt="Soft Aware profile (1)" src="https://github.com/user-attachments/assets/085bdbab-fa71-4680-b364-b048c6c45d9d" />
+
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="SoftAware Logo" width="150" height="150" />
+  <img src="![Uploading Soft Aware profile (1).png…]()" alt="SoftAware Logo" width="150" height="150" />
   <h1>SoftAware</h1>
   <p><strong>Bridging the Gap Between Visionary Clients and Top-Tier Freelancers.</strong></p>
 
