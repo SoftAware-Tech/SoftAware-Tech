@@ -22,7 +22,7 @@ We are a **Managed Software Marketplace** and technical consultancy based in Egy
 
 🏆 **Achievements:**
 * 🥇 **1st Place Winners** - Code Masters Hackathon (Creativa Innovation Hubs, Port Said).
-* 🚀 Successfully delivered full-stack solutions for local businesses (e.g., Casata Mora POS System).
+* 🚀 Successfully delivered full-stack solutions for local businesses.
 
 ---
 
